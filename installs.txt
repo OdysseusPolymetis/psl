@@ -1,8 +1,13 @@
 installs :
-pip
+anaconda (pip&&pip3)
 virtualenv
 tensorflow
+seq2seq (read doc by doing this : git clone https://github.com/tensorflow/nmt/)
+Keras
 nltk
+stanfordCoreNLP for NLTK
+textblob
+spacy
+spacy fr models (https://spacy.io/usage/models)
 gensim
 w2v
-textblob
